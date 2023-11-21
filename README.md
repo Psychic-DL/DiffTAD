@@ -2,5 +2,4 @@
 Official PyTorch code for "DiffTAD: Denoising Diffusion Probabilistic Models for Vehicle Trajectory Anomaly Detection". The source code will be made publicly available upon publication.
 
 # Pipeline Overview
-![pipeline.pdf](https://github.com/Psychic-DL/DiffTAD/blob/69cd07023d2ed81cb4ee20d67ed8f66e640ff1cb/figs/pipeline.pdf)
-<embed src="example.pdf" type="figs/pipeline.pdf" width="100%" height="600px" />
+![image](https://github.com/Psychic-DL/DiffTAD/blob/69cd07023d2ed81cb4ee20d67ed8f66e640ff1cb/figs/pipeline.png)

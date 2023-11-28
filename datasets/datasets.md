@@ -1,0 +1,1 @@
+For the TRAFFIC, CROSS, and Syntra datasets, feel free to contact us by email for a copy if needed (xdchaonengli@163.com). To obtain the MAAD highway dataset, please follow the instructions from the Github repository to request the access link (https://github.com/againerju/maad_highway).

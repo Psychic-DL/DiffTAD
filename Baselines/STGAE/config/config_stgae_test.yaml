@@ -1,0 +1,3 @@
+run_name: "stgae_mse_loss_corl21"
+checkpoint: "epoch_250.pth"
+test_set: "test"  # define set: test, test_ablation_beyond_pairs, train

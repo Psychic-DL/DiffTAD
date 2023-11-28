@@ -1,0 +1,18 @@
+dataset:
+  name: "maad"
+  set: "train"
+model:
+  obs_len: 15  # observation length
+  loss: bivariate  # loss: bivariate or mse
+  n_stgcnn: 1  # encoder: number of spatio-temporal GCNN layers
+  stgcnn_kernel: 3  # temporal dimension of the stgcnn kernel
+  n_cnn: 5  # decoder: number of convolution layers
+  adj_type: "relative"  # adjacency type: relative vs. identity
+optimiser:
+  init_lr: 0.01  # initial learning rate
+  use_lrschd: True  # use learning rate scheduler
+  lr_sh_rate:  150  # update rate of the learning rate scheduler
+  lr_sh_gamma: 0.2  # learning rate scheduler gamma parameter
+train:
+  num_epochs: 250  # default: 250
+  batch_size: 128  # loss update for batch_size segments

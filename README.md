@@ -14,3 +14,9 @@ Vehicle trajectory anomaly detection plays an essential role in the fields of tr
 - The interval sampling strategy accelerates the inference process of diffusion models.
 
 ## 🔧 Model
+
+## 📜 Algorithm Pseudo-Code
+
+## 🗂️ Datasets
+
+## 🔑 Evaluation

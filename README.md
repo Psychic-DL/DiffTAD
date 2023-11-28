@@ -19,6 +19,6 @@ Vehicle trajectory anomaly detection plays an essential role in the fields of tr
 ## 📜 Algorithm Pseudo-Code
 
 ## 🗂️ Datasets
-For the TRAFFIC, CROSS, and Syntra datasets, you can contact me by email for a copy if needed (xdchaonengli@163.com). To obtain the MAAD highway dataset, please follow the instructions from the [maad_highway](https://github.com/againerju/maad_highway) Github repository to request the access link.
+For the TRAFFIC, CROSS, and Syntra datasets, feel free to contact us by email for a copy if needed (xdchaonengli@163.com). To obtain the MAAD highway dataset, please follow the instructions from the [maad_highway](https://github.com/againerju/maad_highway) Github repository to request the access link.
 
 ## 🔑 Evaluation

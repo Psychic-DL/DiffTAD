@@ -1,14 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-One simple Implementation of LSTM_VAE based algorithm for Anomaly Detection in Multivariate Time Series;
-
-Author: Schindler Liang
-
-Reference:
-    https://www.researchgate.net/publication/304758073_LSTM-based_Encoder-Decoder_for_Multi-sensor_Anomaly_Detection
-    https://github.com/twairball/keras_lstm_vae
-    https://arxiv.org/pdf/1711.00614.pdf    
-"""
 import json
 import time
 import matplotlib.pyplot as plt

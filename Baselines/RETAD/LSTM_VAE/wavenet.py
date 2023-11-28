@@ -3,7 +3,6 @@ import pywt
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
 def wavelet_denoising(data):
     db4 = pywt.Wavelet('db6')
     data = pd.read_csv("/Users/huaqiang.fhq/code/t2vec/data/porto.3000.csv")

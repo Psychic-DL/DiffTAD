@@ -12,7 +12,6 @@ from sklearn.metrics import confusion_matrix
 time_steps = 10
 '''
 
-
 class Data_Hanlder(object):
 
     def __init__(self, dataset_name, columns, time_steps):

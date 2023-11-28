@@ -179,7 +179,6 @@ def iforest_predict(train, test, test_label):
     iforest_predict_label = iforest.predict(test)
     plot_confusion_matrix(test_label, iforest_predict_label, ['anomaly', 'normal'], 'iforest Confusion-Matrix')
 
-
 def lof_predict(train, test, test_label):
     from sklearn.neighbors import LocalOutlierFactor
     lof = LocalOutlierFactor(novelty=True, contamination=0.01)
